@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:06:18.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="15.2.7" etag="GHnNZ-9u4hmelDg9I0EY" type="github"><diagram id="IY6jmmIE2WP7F7Q4KzER">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T09:14:33.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="63lhxi6H68wdqOszv4uF" version="15.2.7" type="github">
+  <diagram id="IY6jmmIE2WP7F7Q4KzER" name="Page-1">
+    <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-1" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="80" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZfFFHysQYXYGvZFCuDOv-2" target="ZfFFHysQYXYGvZFCuDOv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="1">
+          <mxGeometry x="80" y="267.5" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="345" y="240" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-5" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="ZfFFHysQYXYGvZFCuDOv-1" target="ZfFFHysQYXYGvZFCuDOv-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="188" as="sourcePoint" />
+            <mxPoint x="400" y="208.71067811865476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ELK Server version8.5.2&lt;br&gt;CentOS7&lt;br&gt;192.168.11.195&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-20" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Windows Server 2012&lt;br&gt;192.168.11.140&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="370" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfFFHysQYXYGvZFCuDOv-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Kali Linux&lt;br&gt;192.168.11.11&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
