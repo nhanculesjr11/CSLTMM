@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T08:27:33.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="cTYiOYBNR70uwojWBe6D" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T08:27:56.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="L27xaytUs07ssZytsmUT" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2418" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,10 +99,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XoyrxmWIbalTPs3iGs9H-19" value="Customer or Related party Call" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1241" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="1241" y="345" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XoyrxmWIbalTPs3iGs9H-20" value="Alert closing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1390" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="1390" y="345" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XoyrxmWIbalTPs3iGs9H-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XoyrxmWIbalTPs3iGs9H-16" target="XoyrxmWIbalTPs3iGs9H-19">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -184,10 +184,10 @@
           <mxGeometry x="1210" y="140" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XoyrxmWIbalTPs3iGs9H-39" value="Validated by SOC Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="345" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XoyrxmWIbalTPs3iGs9H-16" value="Escalate by SNS On-call phone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="350" width="90" height="40" as="geometry" />
+          <mxGeometry x="1110" y="345" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XoyrxmWIbalTPs3iGs9H-41" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XoyrxmWIbalTPs3iGs9H-39" target="XoyrxmWIbalTPs3iGs9H-16">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
